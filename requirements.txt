@@ -1,0 +1,4 @@
+requests
+discord
+beautifulsoup
+You will need your own discord bot token
